@@ -1,0 +1,42 @@
+body {
+  padding-top: 50px;
+  background: #e6ffe6;
+  font-family: Amatic SC;
+  
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.header {
+    width: 100%;
+    background-color: #e6ffff; 
+    font-family: Lobster;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: bold;
+}
+
+.button {
+    border-width: 2px;
+    border-color: aliceblue;
+    margin-right: 15px;
+    padding: 12px 22px;
+}
+
+.btn-hover {
+    background-color: #fff;
+    color: #957bba;
+    border-color: #fff;
+}
+
+.body {
+    margin:auto;
+    padding: 10px;
+    background-color: #ffe6ff;
+}
+
+/* Background Gradient for Analagous Colors */
+.gradient2
+
